@@ -1,1 +1,1 @@
-# ykt.fzu.edu.cn.github.io
+# ykt.fzu.edu.cn
