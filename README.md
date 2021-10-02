@@ -1,23 +1,4 @@
-# <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
-<meta charset="UTF-8">
-<head id="Head1"><title>
-	福州大学一码通
-</title><meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<link rel="stylesheet" href="./scripts/bootstrap.min.css" />
-<link rel="stylesheet" href="./scripts/style4.css" />
-
-<script type="text/javascript" src="./scripts/jquery-3.3.1.min.js"></script>
-
-<script type="text/javascript" src="./scripts/jquery.easyui.min.js"></script>
-
-<script type="text/javascript" src="./scripts/easyui-lang-zh_CN.js"></script>
-<script src="./scripts/chinesealert.js" type="text/javascript"></script>
-
-<script src="./scripts/common.js" type="text/javascript"></script>
-<script src="./scripts/Jquery.MaskLayer.js" type="text/javascript"></script>
-<script src="./scripts/jquery-powerFloat-min.js" type="text/javascript"></script>
-<script src="./scripts/jquery.qrcode.min.js" type="text/javascript"></script>
 
 <style type="text/css">
      .obj{
